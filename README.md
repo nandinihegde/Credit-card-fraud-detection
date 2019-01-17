@@ -1,4 +1,4 @@
-This repository contains the code and dataset used to identify fraud in credit card transactions.
+This repository contains the project code and dataset used to identify fraudulent credit card transactions.
 Supervised learning algorithms were implemented in R for the pupose of this project.
 
 The code is divided into three parts as follows:
